@@ -1,2 +1,2 @@
 # RealtimeMigration
-A simple sandbox to help migration process for Unity / realtime engine.
+A simple sandbox to help migration process to Unity / realtime engine.
